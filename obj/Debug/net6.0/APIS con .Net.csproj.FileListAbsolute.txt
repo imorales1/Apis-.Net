@@ -1,0 +1,27 @@
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\appsettings.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\APIS con .Net.exe
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\APIS con .Net.deps.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\APIS con .Net.runtimeconfig.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\APIS con .Net.pdb
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.csproj.AssemblyReference.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.AssemblyInfoInputs.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.AssemblyInfo.cs
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\scopedcss\bundle\APIS con .Net.styles.css
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.csproj.CopyComplete
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\refint\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.pdb
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\APIS con .Net.genruntimeconfig.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\obj\Debug\net6.0\ref\APIS con .Net.dll

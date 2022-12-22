@@ -1,5 +1,5 @@
 using APIS_con_.Net.Models;
-namespace APIS_con_.Net.Controllers.services;
+namespace APIS_con_.Net.services;
 
 public class CategoriaService : ICategoriaService
 {

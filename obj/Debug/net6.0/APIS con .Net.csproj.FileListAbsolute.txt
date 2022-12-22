@@ -31,3 +31,64 @@ C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\ne
 C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\appsettings.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\APIS con .Net.exe
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\APIS con .Net.deps.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\APIS con .Net.runtimeconfig.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\APIS con .Net.pdb
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.csproj.AssemblyReference.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.AssemblyInfoInputs.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.AssemblyInfo.cs
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\scopedcss\bundle\APIS con .Net.styles.css
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.csproj.CopyComplete
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\refint\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.pdb
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\APIS con .Net.genruntimeconfig.cache
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIScon.Net\obj\Debug\net6.0\ref\APIS con .Net.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alejandro Morales\OneDrive\Documentos\Cursos\APIS con .Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
